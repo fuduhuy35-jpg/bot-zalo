@@ -1,5 +1,5 @@
-const { ZaloApi } = require('zca-js');
-const api = new ZaloApi();
+const { Zalo } = require('zca-js');
+const api = new Zalo();
 const FILE_DANG_NHAP = './zalo-login.json';
 
 // ==================================================
