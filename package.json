@@ -1,10 +1,12 @@
 {
-  "name": "bot-zalo-247",
+  "name": "bot-zalo",
   "version": "1.0.0",
-  "dependencies": {
-    "zca-js": "^0.3.0"
-  },
+  "description": "Bot Zalo",
+  "main": "bot-an-toan.js",
   "scripts": {
     "start": "node bot-an-toan.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
   }
 }
